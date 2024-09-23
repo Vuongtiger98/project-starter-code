@@ -28,6 +28,13 @@ import Jimp from "jimp";
   });
 }
 
+
+// function to validate URLs
+export function isValidUrl(url) {
+  const regex = /^(http|https):\/\/[^ "]+$/;
+  return regex.test(url);
+}
+
 // deleteLocalFiles
 // helper function to delete files on the local disk
 // useful to cleanup after tasks
