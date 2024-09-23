@@ -1,1 +1,9 @@
-http://missing-people-env.eba-faf2md4f.us-east-2.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
+return 200
+http://missing-people-env.eba-faf2md4f.us-east-2.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png
+http://missing-people-env.eba-faf2md4f.us-east-2.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/City_Lights_of_Asia_and_Middle_East_2016.png/1024px-City_Lights_of_Asia_and_Middle_East_2016.png
+http://missing-people-env.eba-faf2md4f.us-east-2.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Greenland_467_%2835130903436%29_%28cropped%29.jpg/640px-Greenland_467_%2835130903436%29_%28cropped%29.jpg
+
+return 422
+http://missing-people-env.eba-faf2md4f.us-east-2.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Felis_catus-cat_on_snow.jpg/640px-Felis_catus-cat_on_snow.jpg
+http://missing-people-env.eba-faf2md4f.us-east-2.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Liver_yellow_dog_in_the_water_looking_at_viewer_at_golden_hour_in_Don_Det_Laos.jpg/640px-Liver_yellow_dog_in_the_water_looking_at_viewer_at_golden_hour_in_Don_Det_Laos.jpg
+http://missing-people-env.eba-faf2md4f.us-east-2.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mouse_in_snow.jpg/640px-Mouse_in_snow.jpg
